@@ -1,4 +1,4 @@
-# ❌⭕ Jogo da Velha (Tic-Tac-Toe) em Python
+# ❌⭕ Jogo da Velha em Python
 
 Uma aplicação em **Python** que implementa o clássico **Jogo da Velha** para ser jogado via terminal por dois jogadores. O projeto utiliza lógica procedural, mapeamento por coordenadas em matriz ($3 \times 3$), sorteio aleatório de turnos e tratamento de erros de entrada de utilizador.
 
