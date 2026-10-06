@@ -22,12 +22,28 @@ O sistema conta com sorteio automático de quem inicia a partida, mapeamento de 
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 💻 Código-Fonte
+
+- [Acessar código principal (jogo_da_velha.py)](./jogo_da_velha.py)
+
+---
+
+## 📐 Documentação e Diagramas
+
+Para consultar o detalhamento do projeto, acesse os links dos diagramas e especificações na pasta `docs`:
+
+- [Acessar Caso de Uso (caso_de_uso.md)](./docs/caso_de_uso.md)
+  
+- [Acessar Fluxograma do Projeto (fluxograma.md)](./docs/fluxograma.md)
+
+- [Acessar Diagrama de Classes (diagrama_de_classes.md)](./docs/diagrama_de_classes.md)
+
+---
+
+## 🛠️️ Tecnologias Utilizadas
 
 * **[Python 3](https://www.python.org/):** Linguagem principal do projeto.
-  
 * **Módulo `random`:** Utilizado para sortear aleatoriamente qual jogador começa.
-
 * **Módulo `os`:** Utilizado para limpar o ecrã do terminal a cada rodada (`cls`).
 
 ---
