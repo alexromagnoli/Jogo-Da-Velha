@@ -24,7 +24,7 @@ O sistema conta com sorteio automático de quem inicia a partida, mapeamento de 
 
 ## 💻 Código-Fonte
 
-- [Acessar código principal (jogo_da_velha.py)](./jogo_da_velha.py)
+- [Acessar código principal (jogo_da_velha.py)](https://github.com/alexromagnoli/Jogo-Da-Velha/blob/main/jogo_da_velha.py)
 
 ---
 
@@ -32,11 +32,11 @@ O sistema conta com sorteio automático de quem inicia a partida, mapeamento de 
 
 Para consultar o detalhamento do projeto, acesse os links dos diagramas e especificações na pasta `docs`:
 
-- [Acessar Caso de Uso (caso_de_uso.md)](./docs/caso_de_uso.md)
+- [Acessar Caso de Uso](https://github.com/alexromagnoli/Jogo-Da-Velha/blob/main/docs/caso-de-uso.md)
   
-- [Acessar Fluxograma do Projeto (fluxograma.md)](./docs/fluxograma.md)
+- [Acessar Fluxograma do Projeto](https://github.com/alexromagnoli/Jogo-Da-Velha/blob/main/docs/fluxograma.md)
 
-- [Acessar Diagrama de Classes (diagrama_de_classes.md)](./docs/diagrama_de_classes.md)
+- [Acessar Diagrama de Classes](https://github.com/alexromagnoli/Jogo-Da-Velha/blob/main/docs/classes.md)
 
 ---
 
